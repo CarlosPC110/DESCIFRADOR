@@ -8,6 +8,8 @@ Descifrado de sustitución monoalfabética (no rotación fija) usando propiedade
 - Puntuación por bigramas/trigramas, palabras funcionales y estructura vocálica.
 - TODO en minúsculas; se conservan signos/espacios y la ñ.
 
+# COMENTARIO AGREGADO POR SILVIA
+
 Uso:
   python descifrar_sustitucion_es.py -i mensaje.txt
   # o pegar por stdin
