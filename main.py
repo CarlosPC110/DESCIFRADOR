@@ -9,6 +9,7 @@ Descifrado de sustitución monoalfabética (no rotación fija) usando propiedade
 - TODO en minúsculas; se conservan signos/espacios y la ñ.
 
 # COMENTARIO AGREGADO POR SILVIA
+# Cambio 2 en mi RAMA
 
 Uso:
   python descifrar_sustitucion_es.py -i mensaje.txt
